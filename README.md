@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="Desafio Introdução HTMl e CSS" src="./images/BugSemantica.png" width="100%">
+  <img alt="Desafio Introdução HTMl e CSS" src="./images/body.png" width="100%">
 </p>
 
 <br>
@@ -34,7 +34,7 @@ O projeto buscou desenvolver melhorias na semântica e acessibilidade, trazendo 
  </p>
 
 <p align="center">
-  <img alt="Desafio Introdução HTMl e CSS" src="./images/body.png" width="100%">
+  <img alt="Desafio Introdução HTMl e CSS" src="./images/BugSemantica.png" width="100%">
 </p>
 <br>
 <p>
