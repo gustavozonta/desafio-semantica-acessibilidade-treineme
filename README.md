@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 <p align="start">
-O projeto buscou desenvolver melhorias na semântica e acessibilidade, trazendo um código onde no <body> tem mais <div>, não trazendo uma semântica adequada.
+O projeto buscou desenvolver melhorias na semântica e acessibilidade, trazendo um código onde no "body" tem mais "div", não trazendo uma boa semântica.
  </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ O projeto buscou desenvolver melhorias na semântica e acessibilidade, trazendo 
 </p>
 <br>
 <p>
-O desafio foi deixar a pagina mais acessível e com uma adequada.
+O desafio foi deixar a pagina mais acessível e com uma semântica adequada.
 </p>
 
 ## 🔖 Layout
